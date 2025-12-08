@@ -1,0 +1,8 @@
+----- ALL STUDENTS -----
+
+ID: AP24110011660
+Name: N. Krishna vasmsi
+Branch: B.Tech
+Section: AE
+CGPA: 8.50
+Phone: 8374249929
